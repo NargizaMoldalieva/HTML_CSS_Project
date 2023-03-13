@@ -1,0 +1,127 @@
+button {
+  border: none;
+  border-radius: 7px;
+  padding: 12px 24px 12px 24px;
+}
+
+.day {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.day_container {
+  margin-top: 72px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.section {
+  margin: 0 auto;
+  width: 1140px;
+  /* background-color: aqua; */
+}
+
+.section3 {
+  margin: 0 auto;
+  margin-left: 148px;
+}
+
+.Nutrients {
+  margin: 17px 0 0 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.MENU_container {
+  margin-top: 72px;
+  /* margin-left: 147px; */
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.MENU_IMAGE,
+.MENU {
+  height: 500px;
+}
+
+.first h4 {
+  margin-top: 120px;
+}
+
+.first h1 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.day h1 {
+  margin: 0;
+}
+
+.third h4 {
+  margin-top: 104px;
+  margin-bottom: 0;
+}
+
+.third h1 {
+  margin-top: 16px;
+  margin-bottom: 56px;
+}
+
+.mobileimg {
+  display: none;
+}
+
+.form-sign {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.upperblock2 {
+  display: flex;
+  width: 100%;
+
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 30px;
+  margin-bottom: 14px;
+}
+
+/* SIGNUP FORM */
+
+.Rounded {
+  width: 298px;
+  height: 45px;
+}
+
+.Rounded:active {
+  outline: none;
+  background-color: #f4c7a0;
+  outline: none;
+  border: none;
+}
+
+.Rounded:focus {
+  background-color: rgba(255, 255, 255, 0.923);
+  outline: none;
+  border: 6px solid #f4c7a0;
+}
+
+.Rounded {
+  border: none;
+  border-radius: 7px;
+}
+
+.form-sign label {
+  margin-bottom: 6px;
+}
+
+/* FOOTER */
+/* FOOTER */
+/* FOOTER */
